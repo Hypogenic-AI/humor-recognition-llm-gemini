@@ -1,0 +1,6 @@
+{
+  "probe_accuracy": 0.99875,
+  "pc1_variance": 0.7465829849243164,
+  "pc1_correlation": 0.36132208261858784,
+  "top_5_variance_sum": 0.9868473410606384
+}

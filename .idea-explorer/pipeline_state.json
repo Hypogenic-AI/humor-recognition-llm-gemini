@@ -1,0 +1,34 @@
+{
+  "created_at": "2026-01-10T22:28:28.018906",
+  "stages": {
+    "resource_finder": {
+      "status": "completed",
+      "started_at": "2026-01-10T22:28:28.019534",
+      "completed_at": "2026-01-10T23:04:31.814141",
+      "success": true,
+      "outputs": {
+        "literature_review": "/data/hypogenicai/workspaces/humor-recognition-llm-gemini/literature_review.md",
+        "resources_catalog": "/data/hypogenicai/workspaces/humor-recognition-llm-gemini/resources.md",
+        "papers_dir": "/data/hypogenicai/workspaces/humor-recognition-llm-gemini/papers",
+        "datasets_dir": "/data/hypogenicai/workspaces/humor-recognition-llm-gemini/datasets",
+        "code_dir": "/data/hypogenicai/workspaces/humor-recognition-llm-gemini/code"
+      }
+    },
+    "experiment_runner": {
+      "status": "completed",
+      "started_at": "2026-01-10T23:04:31.814424",
+      "completed_at": "2026-01-10T23:11:02.352649",
+      "success": true,
+      "outputs": {
+        "success": true,
+        "return_code": 0,
+        "elapsed_time": 390.52992153167725,
+        "log_file": "/data/hypogenicai/workspaces/humor-recognition-llm-gemini/logs/execution_gemini.log",
+        "transcript_file": "/data/hypogenicai/workspaces/humor-recognition-llm-gemini/logs/execution_gemini_transcript.jsonl"
+      }
+    }
+  },
+  "current_stage": null,
+  "completed": true,
+  "completed_at": "2026-01-10T23:11:02.353300"
+}
